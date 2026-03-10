@@ -1,4 +1,0 @@
-sources
-CPI: https://fred.stlouisfed.org/series/CORESTICKM159SFRBATL
-Unemployment: https://fred.stlouisfed.org/series/CORESTICKM159SFRBATL
-Federal Funds Index: https://fred.stlouisfed.org/series/DFF
